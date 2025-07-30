@@ -3,7 +3,7 @@
 - Hi, I’m @joaoguimaraesalves
 - Atualmente sou estudante de Engenharia de Software, na faculdade CEUB.
 - Tenho 19 anos, moro em Águas Claras, Brasília.
-- Trabalho na empresa TOTVS, como analalista de PROTHEUS e desenvolvedor em ADVPL.
+- Trabalho na empresa TOTVS, na área de desenvolvimento em ADVPL/Protheus.
 
   <h2 align="left">Stats</h2>
 
